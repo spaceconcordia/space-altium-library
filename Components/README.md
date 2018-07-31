@@ -1,8 +1,10 @@
-#Component Libraries
+# Component Libraries
 
-##Contents
+## Contents
 
-##Standards
+## Standards
+
 Try to follow IEEE Std 315, the document can be found in the Documents folder
 
-##Description of contents
+## Description of contents
+
