@@ -1,0 +1,3 @@
+# Footprints
+
+* Chip: Footprints for small two-lead SMD devices such as resistors, capacitors, inductors, and diodes with standardized IPC packages. The naming convention is: <Reference designator><name of footprint><Density level designator>. Ex: R0805A designates a resistor with a low-density 0805 footprint. The density levels are: A (low density), B (medium density), and C (high density). Information can be found in IPC-SM-782.
